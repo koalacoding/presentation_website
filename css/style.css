@@ -1,0 +1,17 @@
+body {
+  padding-top: 50px;
+
+  font-family: 'Raleway', Arial;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.btn {
+  margin-top: 10px;
+  margin-left: 20px;
+
+  font-size: 20px;
+}
